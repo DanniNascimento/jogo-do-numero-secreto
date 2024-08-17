@@ -17,7 +17,8 @@ Imagine um jogo emocionante onde você tem a oportunidade de adivinhar um númer
 
 Para criar essa experiência única, utilizamos as linguagens HTML, CSS e JavaScript. Embora tenhamos enfrentado alguns desafios durante a criação do jogo, nossa determinação e persistência nos permitiram superar obstáculos e finalizar o projeto.
 
-Experimente agora mesmo! Clique no link abaixo para jogar e descobrir o número secreto: https://jogo-pearl-three.vercel.app
+Experimente agora mesmo! Clique no link abaixo para jogar e descobrir o número secreto:
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) https://jogo-pearl-three.vercel.app
 
 Prepare-se para uma aventura sem fim!
 
